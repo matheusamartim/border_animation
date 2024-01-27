@@ -47,8 +47,8 @@ span {
 .animated_card1::before {
   position: absolute;
   content: "";
-  height: 498px;
-  width: 348px;
+  height: 490px;
+  width: 340px;
   background: tomato;
   border-radius: 15px;
   z-index: -1;
